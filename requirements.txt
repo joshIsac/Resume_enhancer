@@ -1,0 +1,7 @@
+openai
+streamlit 
+pypdf
+datetime
+plotly
+sentence_transformers
+pandas
